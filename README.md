@@ -24,8 +24,8 @@
 4. Thinh Le-Minh, 1513249
 
 ## Info
-Bach Khoa University, Faculty of Computer Science and Enginnering
-Computer Engineering Department
+Bach Khoa University, Faculty of Computer Science and Enginnering.
+Computer Engineering Department.
 IoT Application Development - Fall 2018
 ### Instructors
 1. Le Trong Nhan, Ph.D
