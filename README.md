@@ -27,6 +27,7 @@
 * Bach Khoa University, Faculty of Computer Science and Enginnering
 * Computer Engineering Department
 * IoT Application Development - Fall 2018
+* LAB 01
 ### Instructors
 1. Le Trong Nhan, Ph.D
 2. Nguyen Tran Huu Nguyen, Ph.D
